@@ -1,0 +1,22 @@
+.input {
+    display: flex;
+    justify-content: space-between;
+}
+
+.surname {
+    width: 150px;
+}
+
+.pass {
+    width: 400px;
+}
+
+.text {
+    width: 300px;
+}
+
+.have {
+    position: absolute;
+    right: 460px;
+}
+
